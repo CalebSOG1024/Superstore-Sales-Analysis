@@ -1,20 +1,16 @@
 # Superstore Sales Analysis: Building Interactive Power BI Dashboard for Driving a Retail Business Success
 ## Table of Content
 - [Description](#description)
-- [Business Introduction](#businessintroduction) 
-- [Business Problem](#business problem) 
-- [Aim of this Project](#aim of this project) 
+- [Business Introduction](#businessIntroduction) 
+- [Business Problem](#businessProblem) 
+- [Aim of this Project](#aimOfThisProject) 
 - [Processes](#processes)
 - [Insights](#insights) 
 - [Recommendations](#recommendations)
 ### Description
 This project shows the Superstore sales performance analysis by recognizing trends and patterns, digging into the data to gain key insights that help drive the Superstore retail business forward.
 
-
-
 ![Superstore_Sales_Anaysis_Dashboard](https://github.com/user-attachments/assets/a546dec6-f879-47a1-9c11-16d21e49ed37)
-
-
 
 ### Business Introduction
 This is a customer-centric enterprise that efficiently delivers products while maximizing profitability and long-term growth. As well focusses on providing excellent customer service, building strong relationships, and meeting customer needs. We offer a unique product mix or shopping experience (e.g., affordability, quality, convenience, or exclusivity); Integrates in-store, online, and mobile channels for a seamless customer journey. We operate in high-traffic physical locations and/or maintains a robust e-commerce platform. We provide helpful, responsive, and friendly support across all touchpoints.
