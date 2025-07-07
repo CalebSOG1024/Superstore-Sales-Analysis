@@ -1,11 +1,11 @@
 # Superstore Sales Analysis: Building Interactive Power BI Dashboard for Driving a Retail Business Success
 ## Table of Content
 - [Description](#description)
-- [Business Introduction](#businessintroduction)
-- [Business Problem](#business problem)
-- [Aim of this Project](#aim of this project)
+- [Business Introduction](#businessintroduction) 
+- [Business Problem](#business problem) 
+- [Aim of this Project](#aim of this project) 
 - [Processes](#processes)
-- [Insights](#insights)
+- [Insights](#insights) 
 - [Recommendations](#recommendations)
 ### Description
 This project shows the Superstore sales performance analysis by recognizing trends and patterns, digging into the data to gain key insights that help drive the Superstore retail business forward.
